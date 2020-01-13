@@ -1,0 +1,51 @@
+.card-header:first-child {
+  border-radius: 14px 14px 0px 0px;
+}
+.card-body {
+  border-radius: 50px;
+}
+
+.card.text-white.bg-secondary {
+  background-color: rgba(0, 0, 0, 0.01) !important;
+}
+
+.btn-icon-split .icon, .btn-icon-split .text {
+}
+
+.card.shadow.mb-4 {
+  border-radius: 14px;
+  border: none;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px #FFFFFF !important;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: #f8f9fc;
+  border-radius: 14px;
+}
+
+.card.shadow.border-left-primary.py-2 {
+  border-radius: 14px;
+  border: none;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px #FFFFFF !important;
+}
+
+.card.shadow.border-left-success.py-2 {
+  border-radius: 14px;
+  border: none;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px #FFFFFF !important;
+}
+
+.card.shadow.border-left-info.py-2 {
+  border-radius: 14px;
+  border: none;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px #FFFFFF !important;
+}
+
+.card.shadow.border-left-warning.py-2 {
+  border-radius: 14px;
+  border: none;
+  box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4), -4px -4px 10px #FFFFFF !important;
+}
+
